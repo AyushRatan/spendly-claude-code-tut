@@ -1,0 +1,8 @@
+Add two link and the bottom of root page - 
+- "Terms and Condition"
+- "Privacy Policy"
+
+make it such that the links point to "#" since their specific pages are not
+yet. Ensure the text decoration to be inline with other font settings of the page.
+
+
